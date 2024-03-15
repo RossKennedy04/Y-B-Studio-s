@@ -7,9 +7,9 @@ namespace StudentProject
     { 
         protected override void Initialize()
         {
-            Window.Title = "MyGame";
+            Window.Title = "Heart of the Machine";
             // TODO: Add your game's initialization logic below here
-            StartScreen<MyWorld>();
+            StartScreen<MainMenu>();
             base.Initialize();
         }
     }
