@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net6.0</TargetFramework>
+		<PublishReadyToRun>false</PublishReadyToRun>
+		<TieredCompilation>false</TieredCompilation>
+		<ImplicitUsings>disable</ImplicitUsings>
+	</PropertyGroup>
+	<PropertyGroup>
+		<ApplicationManifest>app.manifest</ApplicationManifest>
+		<ApplicationIcon>Icon.ico</ApplicationIcon>
+		<StartupObject>StudentProject.Program</StartupObject>
+	</PropertyGroup>
+
+
+	<ItemGroup>
+		<EmbeddedResource Include="Icon.ico" Visible="False" />
+		<EmbeddedResource Include="Icon.bmp" Visible="False" />
+	</ItemGroup>
+	<ItemGroup>
+		<TrimmerRootAssembly Include="Microsoft.Xna.Framework.Content.ContentTypeReader" Visible="false" />
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.1.303" />
+		<PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.1.303" />
+	</ItemGroup>
+	<ItemGroup>
+		<Compile Update="Program.cs;app.manifest" Visible="False" />
+		<None Update="app.manifest" Visible="False" />
+		<None Remove="libs\**" />
+		<None Remove="Content\obj\**" />
+		<None Remove="Content\bin\**" />
+		<None Remove="Content\misc\**" />
+	</ItemGroup>
+
+
+  <ItemGroup>
+    <Reference Include="MonoGameEngine">
+      <HintPath>libs\MonoGameEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
