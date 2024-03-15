@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace StudentProject.Code.GameObjects
 {
@@ -19,16 +20,6 @@ namespace StudentProject.Code.GameObjects
         public override void Update(float deltaTime)
         {
             SetPosition(GameInput.GetMousePosition());
-            CheckCollision();
-        }
-
-        private void CheckCollision()
-        {
-            MenuObject objects = (MenuObject)GetOneObjectAtOffset<MenuObject>(0, 0);
-            if (objects != null)
-            {
-                objects.SetVisible(false);
-            }
         }
     }
 }
