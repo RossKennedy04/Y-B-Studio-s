@@ -9,7 +9,7 @@ namespace StudentProject
         {
             Window.Title = "Heart of the Machine";
             // TODO: Add your game's initialization logic below here
-            StartScreen<MainMenu>();
+            StartScreen<Level_1>();
             base.Initialize();
         }
     }

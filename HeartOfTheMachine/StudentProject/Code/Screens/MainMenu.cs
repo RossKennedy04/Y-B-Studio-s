@@ -10,6 +10,7 @@ namespace StudentProject.Code.Screens
     {
         private MenuCursor _cursor;
         private MenuObject[] _menuObjects = new MenuObject[3];
+        private Text[] _menuObjectsText = {new Text("Play Game"), new Text("Settings"), new Text("Exit Game") };
         private int _optionSelection = 0;
 
         public override void Start(Core core)
@@ -17,10 +18,8 @@ namespace StudentProject.Code.Screens
             base.Start(core);
             // TODO: Add your Screen starting code below here
             Settings.BackgroundFill = Colour.Black;
-            Settings.IsMouseVisible = true;
+            Settings.IsMouseVisible = false; 
 
-            _cursor = new MenuCursor();
-            AddObject(_cursor, 0, 0);
             GameInput.SetMousePosition(Settings.ScreenDimensions / 2);
 
             for(int i = 0; i < _menuObjects.Length; i++)
@@ -28,6 +27,7 @@ namespace StudentProject.Code.Screens
                 _menuObjects[i] = new MenuObject();
                 AddObject(_menuObjects[i], (((int)Settings.ScreenDimensions.X / 2) - (_menuObjects[i].GetSprite().GetWidth() / 2)), (500 + (96 * i)));
                 _menuObjects[i].SetVisible(false);
+                AddText(_menuObjectsText[i], (((int)Settings.ScreenDimensions.X / 2) - (_menuObjects[i].GetSprite().GetWidth() / 2)), (500 + (96 * i)));
             }
             _menuObjects[_optionSelection].SetVisible(true);
         }

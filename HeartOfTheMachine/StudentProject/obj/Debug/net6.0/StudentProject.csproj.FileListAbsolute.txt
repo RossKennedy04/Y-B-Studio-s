@@ -41,3 +41,9 @@ C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartO
 C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\obj\Debug\net6.0\ref\StudentProject.dll
 C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\MenuCursor.xnb
 C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\MenuObject.xnb
+C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\JanitorTemp.xnb
+C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\Level1Bounds.xnb
+C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\Level1WallCorner.xnb
+C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\Level1WallLength.xnb
+C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\Grid.xnb
+C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\Crumb.xnb
