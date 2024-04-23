@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "StudentProject\\Code\\Screens\\Level_1.cs",
               "ToolTip": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\Screens\\Level_1.cs",
               "RelativeToolTip": "StudentProject\\Code\\Screens\\Level_1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAzAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwCMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T11:36:04.245Z",
               "IsPinned": true,
@@ -93,8 +93,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T08:11:32.138Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -106,8 +105,7 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\Crumb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:48:35.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T14:48:35.428Z"
             },
             {
               "$type": "Document",
@@ -119,8 +117,7 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\Grid.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T11:00:14.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T11:00:14.515Z"
             },
             {
               "$type": "Document",
@@ -132,8 +129,7 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\WallCorner.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T09:02:49.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T09:02:49.785Z"
             },
             {
               "$type": "Document",
@@ -145,8 +141,7 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\WallLength.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T09:02:21.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T09:02:21.499Z"
             },
             {
               "$type": "Document",
@@ -158,8 +153,7 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\OrangeEnemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T08:12:29.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T08:12:29.596Z"
             },
             {
               "$type": "Document",
@@ -171,8 +165,7 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\CherryEnemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T08:12:10.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T08:12:10.895Z"
             },
             {
               "$type": "Document",
@@ -184,8 +177,7 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\BananaEnemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T08:11:58.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T08:11:58.793Z"
             },
             {
               "$type": "Document",
@@ -197,8 +189,7 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\PearEnemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T08:11:50.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T08:11:50.714Z"
             },
             {
               "$type": "Document",
@@ -210,8 +201,7 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\MenuObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T12:14:48.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T12:14:48.749Z"
             },
             {
               "$type": "Document",
@@ -223,8 +213,7 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\Level_1_Bounds.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T08:25:21.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T08:25:21.306Z"
             },
             {
               "$type": "Document",
@@ -236,8 +225,7 @@
               "RelativeToolTip": "StudentProject\\MyGame.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T11:38:34.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T11:38:34.966Z"
             },
             {
               "$type": "Document",
@@ -249,8 +237,7 @@
               "RelativeToolTip": "StudentProject\\Code\\Screens\\MyWorld.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T11:35:44.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T11:35:44.603Z"
             }
           ]
         }

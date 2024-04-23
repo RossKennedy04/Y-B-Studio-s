@@ -54,24 +54,26 @@ namespace StudentProject.Code.Screens
             AddObject(janitor, GetGridXLocation(11), GetGridYLocation(6));
             GenerateWallsBox(11, 6, 3, 3, 2);
             GenerateWallsBox(11, 6, 7, 7, 1);
-
         }
 
         public override void Update(float deltaTime)
         {
             base.Update(deltaTime);
-            // TODO: Add your Screen updated code below here
+
+            /**
             if (Core.GetRandomNumber(25) == 0)
             {
-                int randomX = Core.GetRandomNumber(gridWidth);
-                int randomY = Core.GetRandomNumber(gridLength);
-                if (Grid[randomX, randomY] != true)
+                int randomX = Core.GetRandomNumber(gridWidth) + 1;
+                int randomY = Core.GetRandomNumber(gridLength) + 1;
+                if (Grid[(randomX - 1), (randomY - 1)] != true)
                 {
                     Crumb newCrumb = new Crumb();
                     newCrumb.GetSprite().SetOrigin(0.5f, 0.5f);
+                    newCrumb.GetSprite().SetRotation(((Core.GetRandomNumber(3)) * 90));
                     AddObject(newCrumb, GetGridXLocation(randomX), GetGridYLocation(randomY));
                 }
             }
+            **/
 
         }
 
@@ -161,7 +163,7 @@ namespace StudentProject.Code.Screens
                         corner.GetSprite().SetRotation(rotationCorner);
                         corner.GetSprite().SetOrigin(0.5f, 0.5f);
                         AddObject(corner, GetGridXLocation(currentX), GetGridYLocation(currentY));
-                        Grid[currentX, currentY] = true;
+                        Grid[(currentX - 1), (currentY - 1)] = true;
                     }
                     else
                     {
@@ -176,7 +178,7 @@ namespace StudentProject.Code.Screens
                             newWall.GetSprite().SetRotation(rotationLength);
                             newWall.GetSprite().SetOrigin(0.5f, 0.5f);
                             AddObject(newWall, GetGridXLocation(currentX), GetGridYLocation(currentY));
-                            Grid[currentX, currentY] = true;
+                            Grid[(currentX - 1), (currentY - 1)] = true;
                         }
                         skipWallGeneration = false;
 
