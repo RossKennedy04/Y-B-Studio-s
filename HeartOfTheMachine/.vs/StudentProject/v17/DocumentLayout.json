@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\screens\\level_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\screens\\level_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\orangeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\gameobjects\\orangeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\crumb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\gameobjects\\crumb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\screens\\level_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\screens\\level_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\janitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,32 +19,8 @@
       "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\gameobjects\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\wallcorner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\gameobjects\\wallcorner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\walllength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\gameobjects\\walllength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\orangeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\gameobjects\\orangeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\mygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\mygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\level_1_bounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\gameobjects\\level_1_bounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\menuobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\gameobjects\\menuobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\screens\\myworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\screens\\myworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\crumb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\gameobjects\\crumb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\cherryenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,6 +33,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\pearenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\gameobjects\\pearenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\gameobjects\\menuobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\gameobjects\\menuobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\mygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\mygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|c:\\users\\1958148\\onedrive - dundee and angus college\\desktop\\y-b-studio-s\\heartofthemachine\\studentproject\\code\\screens\\myworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF7A247-639E-4ED6-9923-E7F81A8AA696}|StudentProject\\StudentProject.csproj|solutionrelative:studentproject\\code\\screens\\myworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Level_1.cs",
               "DocumentMoniker": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\Screens\\Level_1.cs",
               "RelativeDocumentMoniker": "StudentProject\\Code\\Screens\\Level_1.cs",
               "ToolTip": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\Screens\\Level_1.cs",
               "RelativeToolTip": "StudentProject\\Code\\Screens\\Level_1.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAQwCMAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T11:36:04.245Z",
               "IsPinned": true,
@@ -90,14 +78,15 @@
               "RelativeDocumentMoniker": "StudentProject\\Code\\GameObjects\\Janitor.cs",
               "ToolTip": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\Janitor.cs",
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\Janitor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAlAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T08:11:32.138Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Crumb.cs",
               "DocumentMoniker": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\Crumb.cs",
               "RelativeDocumentMoniker": "StudentProject\\Code\\GameObjects\\Crumb.cs",
@@ -105,7 +94,8 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\Crumb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:48:35.428Z"
+              "WhenOpened": "2024-04-19T14:48:35.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,85 +105,66 @@
               "RelativeDocumentMoniker": "StudentProject\\Code\\GameObjects\\Grid.cs",
               "ToolTip": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\Grid.cs",
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\Grid.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwCcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T11:00:14.515Z"
+              "WhenOpened": "2024-04-19T11:00:14.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WallCorner.cs",
-              "DocumentMoniker": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\WallCorner.cs",
-              "RelativeDocumentMoniker": "StudentProject\\Code\\GameObjects\\WallCorner.cs",
-              "ToolTip": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\WallCorner.cs",
-              "RelativeToolTip": "StudentProject\\Code\\GameObjects\\WallCorner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T09:02:49.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WallLength.cs",
-              "DocumentMoniker": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\WallLength.cs",
-              "RelativeDocumentMoniker": "StudentProject\\Code\\GameObjects\\WallLength.cs",
-              "ToolTip": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\WallLength.cs",
-              "RelativeToolTip": "StudentProject\\Code\\GameObjects\\WallLength.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T09:02:21.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "OrangeEnemy.cs",
               "DocumentMoniker": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\OrangeEnemy.cs",
               "RelativeDocumentMoniker": "StudentProject\\Code\\GameObjects\\OrangeEnemy.cs",
               "ToolTip": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\OrangeEnemy.cs",
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\OrangeEnemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwC0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T08:12:29.596Z"
+              "WhenOpened": "2024-04-19T08:12:29.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "CherryEnemy.cs",
               "DocumentMoniker": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\CherryEnemy.cs",
               "RelativeDocumentMoniker": "StudentProject\\Code\\GameObjects\\CherryEnemy.cs",
               "ToolTip": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\CherryEnemy.cs",
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\CherryEnemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T08:12:10.895Z"
+              "WhenOpened": "2024-04-19T08:12:10.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "BananaEnemy.cs",
               "DocumentMoniker": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\BananaEnemy.cs",
               "RelativeDocumentMoniker": "StudentProject\\Code\\GameObjects\\BananaEnemy.cs",
               "ToolTip": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\BananaEnemy.cs",
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\BananaEnemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T08:11:58.793Z"
+              "WhenOpened": "2024-04-19T08:11:58.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "PearEnemy.cs",
               "DocumentMoniker": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\PearEnemy.cs",
               "RelativeDocumentMoniker": "StudentProject\\Code\\GameObjects\\PearEnemy.cs",
               "ToolTip": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\PearEnemy.cs",
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\PearEnemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T08:11:50.714Z"
+              "WhenOpened": "2024-04-19T08:11:50.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "MenuObject.cs",
               "DocumentMoniker": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\MenuObject.cs",
               "RelativeDocumentMoniker": "StudentProject\\Code\\GameObjects\\MenuObject.cs",
@@ -201,23 +172,12 @@
               "RelativeToolTip": "StudentProject\\Code\\GameObjects\\MenuObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T12:14:48.749Z"
+              "WhenOpened": "2024-03-15T12:14:48.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Level_1_Bounds.cs",
-              "DocumentMoniker": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\Level_1_Bounds.cs",
-              "RelativeDocumentMoniker": "StudentProject\\Code\\GameObjects\\Level_1_Bounds.cs",
-              "ToolTip": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\Code\\GameObjects\\Level_1_Bounds.cs",
-              "RelativeToolTip": "StudentProject\\Code\\GameObjects\\Level_1_Bounds.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T08:25:21.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MyGame.cs",
               "DocumentMoniker": "C:\\Users\\1958148\\OneDrive - Dundee and Angus College\\Desktop\\Y-B-Studio-s\\HeartOfTheMachine\\StudentProject\\MyGame.cs",
               "RelativeDocumentMoniker": "StudentProject\\MyGame.cs",

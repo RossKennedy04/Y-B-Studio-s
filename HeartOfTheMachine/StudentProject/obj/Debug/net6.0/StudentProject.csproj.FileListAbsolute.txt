@@ -47,3 +47,7 @@ C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartO
 C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\Level1WallLength.xnb
 C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\Grid.xnb
 C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\Crumb.xnb
+C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\BananaEnemy.xnb
+C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\CherryEnemy.xnb
+C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\OrangeEnemy.xnb
+C:\Users\1958148\OneDrive - Dundee and Angus College\Desktop\Y-B-Studio-s\HeartOfTheMachine\StudentProject\bin\Debug\net6.0\Content\images\PearEnemy.xnb

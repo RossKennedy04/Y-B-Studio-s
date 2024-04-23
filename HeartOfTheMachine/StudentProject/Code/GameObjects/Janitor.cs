@@ -21,6 +21,15 @@ namespace StudentProject.Code.GameObjects
             JanitorMovement();
         }
 
+        public float GetYLocation()
+        {
+            return GetY();
+        }
+        public float GetXLocation()
+        {
+            return GetX();
+        }
+
         public void JanitorMovement()
         {
             if (GameInput.IsKeyHeld("W"))

@@ -4,6 +4,8 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/images/BananaEnemy.png</File>
+    <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/images/CherryEnemy.png</File>
     <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/images/Crumb.png</File>
     <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/images/Grid.png</File>
     <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/images/JanitorTemp.png</File>
@@ -12,6 +14,8 @@
     <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/images/Level1WallLength.png</File>
     <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/images/MenuCursor.png</File>
     <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/images/MenuObject.png</File>
+    <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/images/OrangeEnemy.png</File>
+    <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/images/PearEnemy.png</File>
     <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/misc/Arial.spritefont</File>
     <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/misc/BackgroundShader.fx</File>
     <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/misc/ComicSans.spritefont</File>
@@ -21,6 +25,10 @@
     <File>C:/Users/1958148/OneDrive - Dundee and Angus College/Desktop/Y-B-Studio-s/HeartOfTheMachine/StudentProject/Content/misc/SpriteFill.fx</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

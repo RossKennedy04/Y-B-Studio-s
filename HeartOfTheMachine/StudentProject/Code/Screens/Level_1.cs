@@ -25,10 +25,14 @@ namespace StudentProject.Code.Screens
         int screenBufferY = ((int)Settings.ScreenDimensions.Y - screenDimensionsY) / 2;
         const int gridWidth = (screenDimensionsX / gridBoxSize);
         const int gridLength = (screenDimensionsY / gridBoxSize);
-        private bool[,] Grid = new bool[gridWidth, gridLength];
+        Grid myGrid = new Grid();
 
         Level_1_Bounds bounds = new Level_1_Bounds();
         Janitor janitor = new Janitor();
+        PearEnemy pearEnemy = new PearEnemy();
+        OrangeEnemy orangeEnemy = new OrangeEnemy();
+        CherryEnemy cherryEnemy = new CherryEnemy();
+        BananaEnemy bananaEnemy = new BananaEnemy();
 
         public override void Start(Core core)
         {
@@ -51,9 +55,21 @@ namespace StudentProject.Code.Screens
                 }
             }
             janitor.GetSprite().SetOrigin(0.5f, 0.5f);
-            AddObject(janitor, GetGridXLocation(11), GetGridYLocation(6));
-            GenerateWallsBox(11, 6, 3, 3, 2);
-            GenerateWallsBox(11, 6, 7, 7, 1);
+            AddObject(janitor, myGrid.GetGridXLocation(11), myGrid.GetGridYLocation(7));
+
+            orangeEnemy.GetSprite().SetOrigin(0.5f, 0.5f);
+            AddObject(orangeEnemy, myGrid.GetGridXLocation(4), myGrid.GetGridYLocation(2));
+            cherryEnemy.GetSprite().SetOrigin(0.5f, 0.5f);
+            AddObject(cherryEnemy, myGrid.GetGridXLocation(7), myGrid.GetGridYLocation(13));
+            bananaEnemy.GetSprite().SetOrigin(0.5f, 0.5f);
+            AddObject(bananaEnemy, myGrid.GetGridXLocation(15), myGrid.GetGridYLocation(13));
+            pearEnemy.GetSprite().SetOrigin(0.5f, 0.5f);
+            AddObject(pearEnemy, myGrid.GetGridXLocation(11), myGrid.GetGridYLocation(8));
+
+            GenerateWallsBox(11, 7, 3, 3, 2);
+            GenerateWallsBox(11, 7, 7, 7, 1);
+            GenerateWallsBox(11, 9, 19, 15, 5);
+            GenerateWallsBox(4, 12, 1, 5, 2);
         }
 
         public override void Update(float deltaTime)
@@ -65,69 +81,29 @@ namespace StudentProject.Code.Screens
             {
                 int randomX = Core.GetRandomNumber(gridWidth) + 1;
                 int randomY = Core.GetRandomNumber(gridLength) + 1;
-                if (Grid[(randomX - 1), (randomY - 1)] != true)
+                if (myGrid.GetGridLocked((randomX - 1), (randomY - 1)) != true)
                 {
                     Crumb newCrumb = new Crumb();
                     newCrumb.GetSprite().SetOrigin(0.5f, 0.5f);
                     newCrumb.GetSprite().SetRotation(((Core.GetRandomNumber(3)) * 90));
-                    AddObject(newCrumb, GetGridXLocation(randomX), GetGridYLocation(randomY));
+                    AddObject(newCrumb, myGrid.GetGridXLocation(randomX), myGrid.GetGridYLocation(randomY));
                 }
             }
             **/
 
         }
 
-        //Used to get the center x coordinate of a grid square
-        private int GetGridXLocation(int gridX)
-        {
-            if (gridX > gridWidth)
-            {
-                gridX = gridWidth;
-            }
-            return screenBufferX + (gridBoxSize * (gridX - 1)) + (gridBoxSize / 2);
-        }
-
-        //Used to get the center y coordinate of a grid square
-        private int GetGridYLocation(int gridY)
-        {
-            if (gridY > gridLength)
-            {
-                gridY = gridLength;
-            }
-            return (int)Settings.ScreenDimensions.Y - screenBufferY - (gridBoxSize * (gridY - 1)) - (gridBoxSize / 2);
-        }
-
-
-        //Used to find the coresponding Grid X location based on the x-coordinate.
-        private int FindGridX(int x)
-        {
-            x = x - screenBufferX;
-            return (x / gridBoxSize) + 1;
-        }
-        //Used to find the coresponding Grid Y location based on the y-coordinate.
-        private int FindGridY(int y)
-        {
-            y = y - screenBufferY;
-            return (y / gridBoxSize) + 1;
-        }
-
-        private bool IsWallPlaceable(int x, int y)
-        {
-
-            return true;
-        }
-
         // WallOpening 1 = Right, 2 = Bottom, 3 = Left, 4 = Top, 5 = None
         // GenerateWallsBox(Grid Location X, Grid Location Y, Size of grid X, Size of Grid Y, Opening in Wall? See above ^)
         private void GenerateWallsBox(int gridX, int gridY, int sizeX, int sizeY, int wallOpening)
         {
-            if (sizeX < 2)
+            if (sizeX < 1)
             {
-                sizeX = 2;
+                sizeX = 1;
             }
-            if (sizeY < 2)
+            if (sizeY < 1)
             {
-                sizeY = 2;
+                sizeY = 1;
             }
 
             int centerWallX = (sizeX / 2) + 1;
@@ -162,8 +138,8 @@ namespace StudentProject.Code.Screens
                         WallCorner corner = new WallCorner();
                         corner.GetSprite().SetRotation(rotationCorner);
                         corner.GetSprite().SetOrigin(0.5f, 0.5f);
-                        AddObject(corner, GetGridXLocation(currentX), GetGridYLocation(currentY));
-                        Grid[(currentX - 1), (currentY - 1)] = true;
+                        AddObject(corner, myGrid.GetGridXLocation(currentX), myGrid.GetGridYLocation(currentY));
+                        myGrid.SetGridLocked((currentX - 1), (currentY - 1), true);
                     }
                     else
                     {
@@ -177,8 +153,8 @@ namespace StudentProject.Code.Screens
                             WallLength newWall = new WallLength();
                             newWall.GetSprite().SetRotation(rotationLength);
                             newWall.GetSprite().SetOrigin(0.5f, 0.5f);
-                            AddObject(newWall, GetGridXLocation(currentX), GetGridYLocation(currentY));
-                            Grid[(currentX - 1), (currentY - 1)] = true;
+                            AddObject(newWall, myGrid.GetGridXLocation(currentX), myGrid.GetGridYLocation(currentY));
+                            myGrid.SetGridLocked((currentX - 1), (currentY - 1), true);
                         }
                         skipWallGeneration = false;
 
